@@ -1,0 +1,87 @@
+[Devices][/org/freedesktop/UDisks2/block_devices/dm_2d0]
+ForceAttachAutomount=false
+ForceLoginAutomount=false
+Icon=drive-harddisk
+LastNameSeen=blokchain
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/dm_2d1]
+ForceAttachAutomount=false
+ForceLoginAutomount=false
+Icon=drive-harddisk
+LastNameSeen=400,0 GiB Hard Drive
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/dm_2d2]
+ForceAttachAutomount=false
+ForceLoginAutomount=false
+Icon=drive-harddisk
+LastNameSeen=storage
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/nvme0n1p1]
+ForceAttachAutomount=false
+ForceLoginAutomount=false
+Icon=drive-harddisk
+LastNameSeen=1,0 GiB Hard Drive
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/nvme0n1p3]
+ForceAttachAutomount=false
+ForceLoginAutomount=false
+Icon=drive-harddisk
+LastNameSeen=250,9 GiB Hard Drive
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sda1]
+ForceAttachAutomount=false
+ForceLoginAutomount=false
+Icon=drive-harddisk
+LastNameSeen=EFI
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sda2]
+ForceAttachAutomount=false
+ForceLoginAutomount=false
+Icon=drive-harddisk
+LastNameSeen=public
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sda3]
+ForceAttachAutomount=false
+ForceLoginAutomount=false
+Icon=drive-harddisk
+LastNameSeen=rok
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdf1]
+EverMounted=true
+ForceAttachAutomount=false
+ForceLoginAutomount=false
+Icon=drive-removable-media-usb-pendrive
+LastNameSeen=2,6 GiB Removable Media
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdf2]
+ForceAttachAutomount=false
+ForceLoginAutomount=false
+Icon=drive-removable-media-usb-pendrive
+LastNameSeen=115,2 GiB Removable Media
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sdh2]
+ForceAttachAutomount=false
+ForceLoginAutomount=false
+Icon=drive-removable-media-usb-pendrive
+LastNameSeen=115,2 GiB Removable Media
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sr0]
+ForceAttachAutomount=false
+ForceLoginAutomount=false
+Icon=media-optical-data
+LastNameSeen=OCZ 10xx Driver
+LastSeenMounted=false
+
+[General]
+AutomountOnLogin=false

@@ -1,0 +1,11 @@
+[Appearance]
+Translucency=true
+
+[Desktop Entry]
+DefaultProfile=main.profile
+
+[Dialogs]
+FirstRun=false
+
+[Window]
+Height=90

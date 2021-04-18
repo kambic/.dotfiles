@@ -1,0 +1,24 @@
+[$Version]
+update_info=webenginepart.upd:MoveNonPasswordStorableSites
+
+[HTML Settings]
+DownloadManager=kget
+
+[MainWindow]
+DisplayPort-1 Window-Maximized 3840x2160=true
+DisplayPort-1 XPosition 2560x1440=1281
+DisplayPort-1 XPosition 3840x2160=0
+DisplayPort-1 YPosition 2560x1440=916
+DisplayPort-1 YPosition 3840x2160=41
+State=AAAA/wAAAAD9AAAAAAAAArwAAAGOAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAMAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABlAHgAdAByAGEAVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAHgBsAG8AYwBhAHQAaQBvAG4AVABvAG8AbABCAGEAcgEAAAEo/////wAAAAAAAAAAAAAAAgAAAAMAAAAeAGIAbwBvAGsAbQBhAHIAawBUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAAAAAAWAGgAdABtAGwAVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAGgBzAHAAZQBlAGMAaABUAG8AbwBsAGIAYQByAAAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+
+[SearchBar]
+CompletionMode=5
+CurrentEngine=google
+History list=\\0
+Mode=1
+SuggestionEnabled=true
+
+[Undo]
+Number of Closed Windows=4

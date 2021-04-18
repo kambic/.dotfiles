@@ -1,0 +1,78 @@
+.dotfiles
+
+
+# XDG user dirs
+/Desktop/
+/Documents/
+/Downloads/
+/Music/
+/Pictures/
+/Public/
+/Templates/
+/Videos/
+/VirtualBox VMs/
+/Dev/
+/bbb/
+/srv/
+/.local/
+/.kde4/
+/.msf4/
+.config/Code - OSS/
+.config/Signal
+.config/whatsapp-nativefier-d40211/
+.config/JetBrains/
+# Security
+.gnupg/
+.putty/
+.vscode-oss/
+.thunderbird/
+!.gnupg/*.conf
+.ssh/
+*.pem
+*.key
+# Common caches
+.adobe/
+.atom/
+.android/
+.*cache/
+.gem/
+.pki/
+.gnome/
+.java/
+.ros/
+.mozilla/
+.gitkraken/
+.macromedia/
+.node-gyp/
+.npm/
+.thumbnails/
+.wget-hsts
+.v8flags*
+# Misc commonly generated files
+.bash_history
+.BurpSuite/
+.zsh_history
+.bazaar/
+.dbus/
+.dropbox/
+.ICEauthority
+.lesshst
+.wpa_cli_history
+.python_history
+.sqlite_history
+.psql_history
+.gdb_history
+.tmux.history
+.Rhistory
+.subversion/
+.wine/
+.Xauthority
+.xsession-errors
+# Misc junk files
+*~
+*.bak
+*.log
+*.swp
+*.swo
+*.swn
+*.tmp

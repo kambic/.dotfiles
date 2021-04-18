@@ -1,0 +1,24 @@
+[MainWindow]
+DisplayPort-1 Height 2560x1440=680
+DisplayPort-1 Width 2560x1440=996
+DisplayPort-1 XPosition 2560x1440=1280
+DisplayPort-1 YPosition 2560x1440=478
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAEQAAACWPwCAAAAAfsAAAAwAHIAZQBtAG8AdABlAEQAZQBzAGsAdABvAHAAcwBEAG8AYwBrAFcAaQBkAGcAZQB0AQAAAFAAAAJYAAAArwEAAAMAAALTAAACWAAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAABAAAAMABrAHIAZABjAF8AcgBlAG0AbwB0AGUAXwB2AGkAZQB3AF8AdABvAG8AbABiAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[hostpreferences][rdp://192.168.122.51]
+colorDepth=2
+console=false
+extraOptions=
+height=600
+keyboardLayout=7
+performance=2
+remoteFX=true
+resolution=6
+shareMedia=
+showConfigAgain=true
+sound=0
+soundSystem=0
+walletSupport=true
+width=800

@@ -1,0 +1,70 @@
+[Devices]
+hp DVD A  DS8ABSH=4234,4234
+
+[External Programs]
+cdrdao user parameters=
+cdrecord default=/usr/bin/cdrecord
+cdrecord last seen newest version=3.2a09
+cdrecord user parameters=
+cdrskin default=/usr/bin/cdrskin
+cdrskin last seen newest version=1.5.4
+cdrskin user parameters=
+dvd+rw-format user parameters=
+eMovix user parameters=
+growisofs user parameters=
+mkisofs default=/usr/bin/mkisofs
+mkisofs last seen newest version=3.2a09
+mkisofs user parameters=
+normalize user parameters=
+readcd default=/usr/bin/readcd
+readcd last seen newest version=3.2a09
+readcd user parameters=
+search path[$e]=/usr/bin/,/usr/local/bin/,/usr/sbin/,/usr/local/sbin/,/sbin
+sox user parameters=
+transcode user parameters=
+vcdxbuild user parameters=
+vcdxminfo user parameters=
+vcdxrip user parameters=
+
+[General Options]
+Allow overburning=false
+Fifo buffer=4
+Force unsafe operations=false
+Last system check version=20.12.3
+Manual buffer size=false
+Navigator breadcrumb mode=true
+No cd eject=false
+Show Document Header=true
+Temp Dir=/home/kamba/Videos
+burnfree=true
+check system config=true
+config version=20.12.3
+current theme=quant
+
+[Welcome Widget]
+welcome_actions=file_new_data,file_new_audio,tools_copy_medium
+
+[file view]
+Allow Expansion=false
+Decoration position=2
+Show Inline Previews=true
+Show Preview=false
+Show hidden files=false
+Sort by=Name
+Sort directories first=true
+Sort reversed=false
+View Style=DetailTree
+last url[$e]=$HOME/
+show bookmarks=false
+
+[image writing]
+recent images[$e]=$HOME/Downloads/hp_drivercd_ubuntu14_sp79163.iso
+
+[main_window_settings]
+DisplayPort-1 Height 2560x1440=528
+DisplayPort-1 Width 2560x1440=640
+DisplayPort-1 XPosition 2560x1440=253
+DisplayPort-1 YPosition 2560x1440=181
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAGVAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled

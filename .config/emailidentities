@@ -1,0 +1,12 @@
+[General]
+Default Identity=750273314
+
+[Identity #0]
+Default Domain=workstation
+Disable Fcc=false
+Identity=kamba
+Image Location=
+Inline Signature=
+Name=kamba
+Signature Enabled=false
+uoid=750273314

@@ -1,0 +1,33 @@
+[Desktop Entry]
+DefaultProfile=main.profile
+
+[KonsoleWindow]
+AllowMenuAccelerators=true
+ShowWindowTitleOnTitleBar=true
+UseSingleInstance=true
+
+[MainWindow]
+\sHeight 0x0=38
+\sWidth 0x0=8
+DP-2 Height 2560x1440=1367
+DP-2 Width 2560x1440=1345
+DisplayPort-1 Height 1920x1080=224
+DisplayPort-1 Height 2560x1440=1365
+DisplayPort-1 Height 3840x2160=2075
+DisplayPort-1 Width 1920x1080=320
+DisplayPort-1 Width 2560x1440=1280
+DisplayPort-1 Width 3840x2160=1920
+DisplayPort-1 XPosition 1920x1080=1600
+DisplayPort-1 XPosition 2560x1440=0
+DisplayPort-1 XPosition 3840x2160=1920
+DisplayPort-1 YPosition 1920x1080=31
+DisplayPort-1 YPosition 2560x1440=31
+DisplayPort-1 YPosition 3840x2160=41
+HDMI-A-1 Height 1920x1080=1007
+HDMI-A-1 Width 1920x1080=960
+HDMI-A-1 XPosition 1920x1080=0
+HDMI-A-1 YPosition 1920x1080=29
+State=AAAA/wAAAAD9AAAAAAAABQAAAANhAAAABAAAAAQAAAAIAAAACPwAAAAA
+ToolBarsMovable=Disabled
+XWAYLAND0 XPosition 3840x2160=0
+XWAYLAND0 YPosition 3840x2160=74

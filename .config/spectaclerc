@@ -1,0 +1,10 @@
+[$Version]
+update_info=spectacle_newConfig.upd:spectacle-new-config
+
+[GuiConfig]
+captureMode=5
+cropRegion=17,921,807,308
+window-position=50,50
+
+[Save]
+lastSaveLocation=file:///home/kamba/Pictures/Screenshot_20210408_191954.png
